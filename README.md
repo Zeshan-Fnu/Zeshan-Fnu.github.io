@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## FNU MD ZESHAN
 
-You can use the [editor on GitHub](https://github.com/Zeshan-Fnu/Zeshan-Fnu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/fnu-md-zeshan-613789204/) for general profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Github](https://github.com/Zeshan-Fnu) for work sample.
 
 ### Markdown
 
