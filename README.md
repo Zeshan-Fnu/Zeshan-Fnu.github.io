@@ -2,7 +2,7 @@
 
 I am a senior at Sam Houston State University, studying Computer Science and Statistics. I expect to graduate in the Spring of 2022. I live in Huntsville, Texas. I am passionate about travelling, reading, writing and philosophy. My interests are computer programming, data science and mathematics. I want to make a career in software development and I am currently looking for entry level work opportunities. 
 
-[My Resume](Resume.pdf)
+[My Resume](Resume.jpg)
 
 Go to [LinkedIn](https://www.linkedin.com/in/Zeshan-Fnu/) to view my profile.
 
