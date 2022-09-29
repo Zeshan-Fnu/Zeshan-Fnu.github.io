@@ -10,6 +10,8 @@ Go to [Github](https://github.com/Zeshan-Fnu) to view my projects.
 
 Go to [Google drive](https://drive.google.com/drive/folders/1uaRxFfPkxld0ZSqTHA2dyBpOHT6ObSgn?usp=sharing) to read what I have written.
 
+[Consequences](Consequences.html)
+
 Email me at zeshan-fnu@outlook.com
 
 or call me at +1 919-980-5080
