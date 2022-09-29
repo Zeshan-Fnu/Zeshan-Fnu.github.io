@@ -8,11 +8,14 @@ Go to [LinkedIn](https://www.linkedin.com/in/Zeshan-Fnu/) to view my profile.
 
 Go to [Github](https://github.com/Zeshan-Fnu) to view my projects.
 
-Read here, some of what I have written.
+Check out, some of my other works.
 
   [Consequences,](consequences.html)
   [Education,](education.html)
-  [God](god.html)
+  [God](god.html) &
+  [Morality](morality.html)
+
+[Drones](drones.pdf) & [Sugarland](sugarland.pdf)
 
 Email me at zeshan-fnu@outlook.com
 
