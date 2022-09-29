@@ -8,9 +8,10 @@ Go to [LinkedIn](https://www.linkedin.com/in/Zeshan-Fnu/) to view my profile.
 
 Go to [Github](https://github.com/Zeshan-Fnu) to view my projects.
 
-Go to [Google drive](https://drive.google.com/drive/folders/1uaRxFfPkxld0ZSqTHA2dyBpOHT6ObSgn?usp=sharing) to read what I have written.
-
-[Consequences](Consequences.html)
+Read here, some of what I have written.
+  [Consequences,](consequences.html)
+  [Education,](education.html)
+  [God](god.html)
 
 Email me at zeshan-fnu@outlook.com
 
