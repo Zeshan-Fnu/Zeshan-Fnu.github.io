@@ -9,6 +9,7 @@ Go to [LinkedIn](https://www.linkedin.com/in/Zeshan-Fnu/) to view my profile.
 Go to [Github](https://github.com/Zeshan-Fnu) to view my projects.
 
 Read here, some of what I have written.
+
   [Consequences,](consequences.html)
   [Education,](education.html)
   [God](god.html)
