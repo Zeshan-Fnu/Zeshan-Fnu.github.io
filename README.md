@@ -8,9 +8,7 @@ Go to [LinkedIn](https://www.linkedin.com/in/Zeshan-Fnu/) to view my profile.
 
 Go to [Github](https://github.com/Zeshan-Fnu) to view my projects.
 
-Check out, some of my other works, [here](works.html).
-
-[Drones](drones.pdf) & [Sugarland](sugarland.pdf)
+Go [here](works.html) to check out my other works.
 
 Email me at zeshan-fnu@outlook.com
 
